@@ -1,0 +1,12 @@
+body {background-color:aliceblue;
+    font-family:'Times New Roman', Times, serif;}
+h1 {color:rgb(0, 0, 0);
+    font-family:'Times New Roman', Times, serif;}
+header {background-color: chartreuse;}
+nav {background-color:rgb(218, 243, 193);}
+main {background-color: rgb(111, 151, 111);}
+section {background-color: rgb(206, 250, 141);}
+article#article1 {text-align:left;}
+article#article2 {text-align:right;}
+aside {align-items: center;}
+footer {background-color: chartreuse;}
