@@ -1,12 +1,22 @@
-body {background-color:aliceblue;
+body {background-color:rgb(202, 229, 253);
     font-family:'Times New Roman', Times, serif;}
 h1 {color:rgb(0, 0, 0);
     font-family:'Times New Roman', Times, serif;}
-header {background-color: chartreuse;}
+header {background-color: chartreuse;
+        border-color:rgba(19, 133, 97, 0.541);
+        border-width: 5px;
+        border-radius: 5px;
+        border-style:solid;}
 nav {background-color:rgb(218, 243, 193);}
-main {background-color: rgb(111, 151, 111);}
-section {background-color: rgb(206, 250, 141);}
-article#article1 {text-align:left;}
+main {background-color: rgba(136, 168, 136, 0.959);background-color: chartreuse;
+        border-color:rgba(15, 146, 140, 0.582);
+        border-width: 4px;
+        border-radius: 4px;
+        border-style:solid;}
+section {background-color: rgba(206, 250, 141, 0.548);}
+article#article1 {background-color: rgba(153, 78, 224, 0.144);
+                  text-align:left;}
 article#article2 {text-align:right;}
-aside {align-items: center;}
+aside {align-items: center;
+       background-color: rgba(153, 235, 153, 0.308);}
 footer {background-color: chartreuse;}
